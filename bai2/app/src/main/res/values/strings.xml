@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ba2</string>
+    <string name="Fahrenheit">Fahrenheit</string>
+    <string name="Celcius">Celcius</string>
+    <string name="ConvertToC">đổi thành Celcius</string>
+    <string name="ConvertToF">đổi thành Fahrenheit</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CHƯƠNG TRÌNH TÍNH CHỈ SỐ BMI</string>
+
+    <string name="input_name">nhập tên: </string>
+    <string name="input_height">Chiều cao: </string>
+    <string name="input_weight">Cân nặng: </string>"
+    
+    <string name="result">TÍNH BMI </string>"
+
+    <string name="result_bmi">Chỉ số BMI: </string>
+    <string name="result_type">Chuẩn đoán: </string>"
+
+
+</resources>

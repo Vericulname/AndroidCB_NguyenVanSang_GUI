@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bai1</string>
+    <string name="add">Tổng 2 số</string>
+    <string name="sub">Hiệu 2 số</string>"
+    <string name="mul">Tích 2 số</string>"
+    <string name="div">Thương 2 số</string>"
+    <string name="uc">Ước chung lớn nhất</string>"
+    <string name="exit">Thoát</string>"
+    <string name="kq">kết quả</string>
+
+</resources>
